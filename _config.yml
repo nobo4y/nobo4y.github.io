@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 
 subtitle: ''
-description: ''
+description: '承影安全团队是一个持续学习发展中网络安全研究团队，成立于2021年7月16日，由一群热爱网络安全的年轻人一同组成，致力于研究高级渗透测试、漏洞挖掘与修复，红蓝攻防对抗演习等，不定期的分享，接收各种批评与建议，一起共同学习成长！'
 keywords:
-author: John Doe
-language: en
+author: Nobo4y
+language: zh-Hans
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://10.1.2.235/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,4 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:nobo4y/nobo4y.github.io.git
+  branch: master
