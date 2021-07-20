@@ -1,217 +1,117 @@
-# Chirpy
+# 星合の空
 
-Language: English | [简体中文](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/README.zh-CN.md)
+欢迎访问我的个人主页！下面向你介绍一下我自己吧\~
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
-[![Build Status](https://github.com/cotes2020/jekyll-theme-chirpy/workflows/build/badge.svg?branch=master&event=push)](https://github.com/cotes2020/jekyll-theme-chirpy/actions?query=branch%3Amaster+event%3Apush)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8220b926db514f13afc3f02b7f884f4b)](https://app.codacy.com/manual/cotes2020/jekyll-theme-chirpy?utm_source=github.com&utm_medium=referral&utm_content=cotes2020/jekyll-theme-chirpy&utm_campaign=Badge_Grade_Dashboard)
-[![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
-[![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
+<!-- .slide -->
 
-A minimal, sidebar, responsive web design Jekyll theme that focuses on text presentation. Designed to help you record and share your knowledge easily. [Live Demo »](https://chirpy.cotes.info)
+## Contact
 
-[![Devices Mockup](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png)](https://chirpy.cotes.info)
+- Address
+  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+- Site
+  - **<https://wu-kan.cn>**
+- [Resume](https://wu-kan.github.io/resume/resume.pdf)
 
-## Features
+<!-- .slide vertical=true -->
 
-- Pinned Posts
-- Configurable theme mode
-- Double-level Categories
-- Last modified date for posts
-- Table of Contents
-- Automatically recommend related posts
-- Syntax highlighting
-- Mathematical expressions
-- Mermaid diagram & flowchart
-- Search
-- Atom Feeds
-- Disqus Comments
-- Google Analytics
-- GA Pageviews reporting (Advanced)
-- SEO and Performance Optimization
+- Phone
+  - **+86 18756280097**
+- WeChat
+  - **Wu-\_-Kan**
+- E-mail:
+  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
+  - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
 
-## Prerequisites
+<!-- .slide -->
 
-Follow the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+## Education
 
-## Installation
+<!-- .slide vertical=true -->
 
-There are two ways to get the theme:
+School of Computer Science and Engineering, Sun Yat-sen University, Guangzhou
 
-- **Install from RubyGems** - Easy to update, isolate irrelevant project files so you can focus on writing.
-- **Fork on GitHub** - Convenient for custom development, but difficult to update, only suitable for web developers.
+- Master of Computer Science, Sept. 2021 - Jul. 2024 (expected)
+  - Advised by [Prof. X. Zhang](https://xianweiz.github.io/) at [NSCC-GZ](http://www.nscc-gz.cn/index.html)
 
-### Installing the Theme Gem
+<!-- .slide vertical=true -->
 
-Add this line to your Jekyll site's `Gemfile`:
+- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021
+  - Principle of Supercomputer
+  - Parallel and Distributed Computing
+  - High Performance Computing
+  - Multicore Computing
 
-```ruby
-gem "jekyll-theme-chirpy"
-```
+<!-- .slide -->
 
-And add this line to your Jekyll site's `_config.yml`:
+## Projects
 
-```yaml
-theme: jekyll-theme-chirpy
-```
+<!-- .slide vertical=true -->
 
-And then execute:
+- [HPL-AI](https://wu-kan.cn/_posts/2021-03-14-HPL-AI/)[![Star](https://img.shields.io/github/stars/wu-kan/HPL-AI.svg)](https://github.com/wu-kan/HPL-AI)[![Fork](https://img.shields.io/github/forks/wu-kan/HPL-AI.svg)](https://github.com/wu-kan/HPL-AI/fork)
+  - An implementation of HPL-AI Mixed-Precision Benchmark based on hpl-2.3.
+  - Graduation design for bachelor's degree.
 
-```console
-$ bundle
-```
+<!-- .slide vertical=true -->
 
-Finally, copy the required files from the theme's gem (for detailed files, see [starter project][starter]) to your Jekyll site.
+- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
+  - A static blog system with content-first, sliding sidebar theme.
+  - Powered by Jekyll.
 
-> **Hint**: To locate the installed theme’s gem, execute:
->
-> ```console
-> $ bundle info --path jekyll-theme-chirpy
-> ```
+<!-- .slide -->
 
-Or you can [**use the starter template**][use-starter] to create a Jekyll site to save time copying files from the theme's gem. We have prepared everything for you there!
+## Honors
 
-### Fork on GitHub
+- **First Prize (3rd) & Highest Linpack**, advisor, [ASC20-21 Student Supercomputer Challenge](https://wu-kan.cn/_posts/2021-05-17-%E6%88%91%E7%9A%84ASC%E5%86%B3%E8%B5%9B%E5%A4%8D%E7%9B%98-%E5%86%92%E9%99%A9-%E5%A4%B1%E8%AF%AF%E4%B8%8E%E7%BF%BB%E8%BD%A6/), May. 2021
 
-[Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub and then clone your fork to local. (Please note that the default branch code is in development.  If you want the blog to be stable, please switch to the [latest tag](https://github.com/cotes2020/jekyll-theme-chirpy/tags) and start writing.)
+<!-- .slide vertical=true -->
 
-Install gem dependencies by:
+- **Gold Medal (4th)**, [CCF Collegiate Computer Systems & Programming Contest](https://wu-kan.cn/_posts/2020-10-17-2020-CCF-CCSP%E7%AB%9E%E8%B5%9B-%E5%90%AB%E5%88%86%E8%B5%9B%E5%8C%BA%E7%AB%9E%E8%B5%9B/), South China Division, Oct. 2020
+- **First Scholarship**, Oct. 2020
+- **Silver Medal (2nd)**, The 8th "Intel Cup" [Parallel Application Challenge](http://sdcs.sysu.edu.cn/content/5501), Sept. 2020
+- **First Prize (3rd) & Winner Prize (5th)**, [Priority Research Application](https://cas-pra.sugon.com/webnews/detail/205), Aug. 2020
 
-```console
-$ bundle
-```
+<!-- .slide vertical=true -->
 
-And then execute:
+- **Top 0.05% in 11395**, [The 18th CCF Certified Software Professional](https://wu-kan.cn/_posts/2019-12-16-%E7%AC%AC%E5%8D%81%E5%85%AB%E6%AC%A1CCF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E8%83%BD%E5%8A%9B%E8%AE%A4%E8%AF%81/), Dec. 2019
+- **Silver Medal**, [International Collegiate Programming Contest, Xuzhou Site](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/), Nov. 2019
+- **Gold Medel**$\times 2$, China Collegiate Programming Contest, Guangdong Division, May. 2019 & May. 2018
 
-```console
-$ bash tools/init.sh
-```
+<!-- .slide -->
 
-> **Note**: If you don't plan to deploy your site on GitHub Pages, append parameter option `--no-gh` at the end of the above command.
+## Leadership
 
-What it does is:
+- Leader of [SYSU-SCC](https://github.com/SYSU-SCC), Mar. 2020 - Jul. 2021
 
-1. Remove some files or directories from your repository:
-    - `.travis.yml`
-    - files under `_posts`
-    - folder `docs`
+<!-- .slide -->
 
-2. If you use the `--no-gh` option, the directory `.github` will be deleted. Otherwise, setup the GitHub Action workflow by removing the extension `.hook` of `.github/workflows/pages-deploy.yml.hook`, and then remove the other files and directories in the folder `.github`.
+## Blogs
 
-3. Automatically create a commit to save the changes.
+- [基于 Jekyll 搭建个人博客](https://wu-kan.cn/_posts/2019-01-18-%E5%9F%BA%E4%BA%8EJekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
+- [我的算法竞赛模板](https://wu-kan.cn/_posts/2019-02-04-%E6%88%91%E7%9A%84%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/)
+- [这一年的一点感想](https://wu-kan.cn/_posts/2019-07-18-%E8%BF%99%E4%B8%80%E5%B9%B4%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
 
-## Usage
+<!-- .slide vertical=true -->
 
-### Configuration
+- [今日此时所想之事](https://wu-kan.cn/_posts/2020-01-24-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
+- [十月九日](http://wu-kan.cn/_posts/2020-10-09-%E5%8D%81%E6%9C%88%E4%B9%9D%E6%97%A5/)
+- [今日此时所想之事（二）](https://wu-kan.cn/_posts/2021-02-11-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B-%E4%BA%8C/)
 
-Update the variables of `_config.yml` as needed. Some of them are typical options:
+<!-- .slide -->
 
-- `url`
-- `avatar`
-- `timezone`
-- `lang`
-
-### Running Local Server
-
-You may want to preview the site contents before publishing, so just run it by:
-
-```console
-$ bundle exec jekyll s
-```
-
-Or run the site on Docker with the following command:
-
-```terminal
-$ docker run -it --rm \
-    --volume="$PWD:/srv/jekyll" \
-    -p 4000:4000 jekyll/jekyll \
-    jekyll serve
-```
-
-Open a browser and visit to _<http://localhost:4000>_.
-
-### Deployment
-
-Before the deployment begins, checkout the file `_config.yml` and make sure the `url` is configured correctly. Furthermore, if you prefer the [**project site**](https://help.github.com/en/github/working-with-github-pages/about-github-pages#types-of-github-pages-sites) and don't use a custom domain, or you want to visit your website with a base URL on a web server other than **GitHub Pages**, remember to change the `baseurl` to your project name that starting with a slash, e.g, `/project-name`.
-
-Now you can choose ONE of the following methods to deploy your Jekyll site.
-
-#### Deploy on GitHub Pages
-
-For security reasons, GitHub Pages build runs on `safe` mode, which restricts us from using plugins to generate additional page files. Therefore, we can use **GitHub Actions** to build the site, store the built site files on a new branch, and use that branch as the source of the GH Pages service.
-
-Quickly check the files needed for GitHub Actions build:
-
-- Ensure your Jekyll site has the file `.github/workflows/pages-deploy.yml`. Otherwise, create a new one and fill in the contents of the [workflow file][workflow], and the value of the `on.push.branches` should be the same as your repo's default branch name.
-- Ensure your Jekyll site has file `tools/test.sh` and `tools/deploy.sh`. Otherwise, copy them from this repo to your Jekyll site.
-
-And then rename your repository to `<GH-USERNAME>.github.io` on GitHub.
-
-Now publish your Jekyll site by:
-
-1. Push any commit to remote to trigger the GitHub Actions workflow. Once the build is complete and successful, a new remote branch named `gh-pages` will appear to store the built site files.
-
-2. Browse to your repo's landing page on GitHub and select the branch `gh-pages` as the [publishing source](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) through _Settings_ → _Options_ → _GitHub Pages_:
-
-    ![gh-pages-sources](https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/posts/20190809/gh-pages-sources.png)
-
-3. Visit your website at the address indicated by GitHub.
-
-#### Deploy on Other Platforms
-
-On platforms other than GitHub, we cannot enjoy the convenience of **GitHub Actions**. Therefore, we should build the site locally (or on some other 3rd-party CI platform) and then put the site files on the server.
-
-Go to the root of the source project, build your site by:
-
-```console
-$ JEKYLL_ENV=production bundle exec jekyll b
-```
-
-Or build the site with Docker by:
-
-```terminal
-$ docker run -it --rm \
-    --env JEKYLL_ENV=production \
-    --volume="$PWD:/srv/jekyll" \
-    jekyll/jekyll \
-    jekyll build
-```
-
-Unless you specified the output path, the generated site files will be placed in folder `_site` of the project's root directory. Now you should upload those files to your web server.
-
-## Documentation
-
-For more details and a better reading experience, please check out the [tutorials on the demo site](https://chirpy.cotes.info/categories/tutorial/). In the meanwhile, a copy of the tutorial is also available on the [Wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-The old saying, "Two heads are better than one." Consequently, welcome to report bugs, improve code quality or submit a new feature. For more information, see [contributing guidelines](.github/CONTRIBUTING.md).
-
-## Credits
-
-This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem, [Bootstrap](https://getbootstrap.com/), [Font Awesome](https://fontawesome.com/) and some other wonderful tools (their copyright information can be found in the relevant files). The avatar and favicon design comes from [Clipart Max](https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/).
-
-:tada: Thanks to all the volunteers who contributed to this project, their GitHub IDs are on [this list](https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors). Also, I won't forget those guys who submitted the issues or unmerged PR because they reported bugs, shared ideas, or inspired me to write more readable documentation.
-
-Last but not least, thank [JetBrains][jb] for providing the open source license.
-
-## Sponsoring
-
-If you like this theme or find it helpful, please consider sponsoring me, because it will encourage and help me better maintain the project, I will be very grateful!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ff813f?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/coteschung)
-[![Wechat Pay](https://img.shields.io/badge/-Tip%20Me%20on%20WeChat-brightgreen?logo=wechat&logoColor=white)][cn-donation]
-[![Alipay](https://img.shields.io/badge/-Tip%20Me%20on%20Alipay-blue?logo=alipay&logoColor=white)][cn-donation]
-
-## License
-
-This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
-
-[starter]: https://github.com/cotes2020/chirpy-starter
-[use-starter]: https://github.com/cotes2020/chirpy-starter/generate
-[workflow]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/.github/workflows/pages-deploy.yml.hook
-
-<!-- ReadMe links -->
-
-[jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
-[cn-donation]: https://cotes.gitee.io/alipay-wechat-donation/
+## Skills
+
+<!-- .slide vertical=true -->
+
+- **C/C++**, Familiar
+  - **OpenMP**, Familiar
+  - **MPI**, Familiar
+  - **CUDA**, Familiar&Learning
+- **Python**, Familiar
+
+<!-- .slide vertical=true -->
+
+- **Markdown**, Familiar
+- **$\LaTeX$**, Familiar
+- **Shell**, Familiar&Learning
+- **Git**, Familiar
+- **VSCode**, Familiar
