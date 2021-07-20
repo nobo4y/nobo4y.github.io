@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Nobo4y
 # URL for the Image of the Author
-author-image: /assets/image/author-image.jpg
+author-image: https://img1.baidu.com/it/u=870754353,1975669834&fm=11&fmt=auto&gp=0.jpg
 # 60 Words About the Author
 author-about: A group of children who love and are eager to protect network security
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
