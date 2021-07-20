@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+title: Nobo4y Blog
+description: Nobo4y的个人博客
+keywords: 渗透测试
+author: Nobo4y
+footerText: 'Copyright © 2016 皖ICP备16010000号'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
