@@ -18,7 +18,7 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /assets/images/chengying.jpg
+heroimage: /assets/images/bg.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,9 +43,9 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Nobo4y
 # URL for the Image of the Author
-author-image: /assets/images/nobo4y.jpg
+author-image: /assets/images/about.jpg
 # 60 Words About the Author
-author-about: 
+author-about: 承影安全团队是一个持续学习发展中网络安全研究团队，成立于2021年7月16日，由一群热爱网络安全的年轻人一同组成，致力于研究高级渗透测试、漏洞挖掘与修复，红蓝攻防对抗演习等，不定期的分享，接收各种批评与建议，一起共同学习成长！
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: 
 
