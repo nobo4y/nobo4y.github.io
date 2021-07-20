@@ -1,101 +1,51 @@
-# WhatATheme
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable y would like, and they will be accessible
+#  the templates via {{ site.myvariable }}.
+tie: 'Flightdeck: A Scaffold for Jekyll'
+email: client-email@client_domain.com
+description: Flightdeck is a scaffold & starter project for Jekyll that uses an opinionated workflow.
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+
+### SEO
+social:
+  twitter: github
+  instagram: github
+  github: github
+
+gaCode: # UA-XXXXXXXX-XX
+include_rss_feed: false
+
+### Build settings
 markdown: kramdown
+# plugins:
 
-# URL of the Site
-url: ''
-# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+keep_files: # When clobbering the site destination, keep the selected files.
+  - assets
 
-# Title of the Site
-title: Nobo4y
-# Description of the Site
-description: A group of students who love and are eager to protect the network security
-# URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
-# Keywords of the Site
-site-keywords: Site, Template, Theme
-# URL for the Image of custom Favicon
-favicon-url: 
-
-# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /assets/images/bg.jpg
-
-# Social Media and Contact
-# If you don't want to use any icon, you can leave them blank.
-email: Nobo4y
-facebook_username: Nobo4y
-twitter_username: Nobo4y
-instagram_username: Nobo4y
-linkedin_username: Nobo4y
-github_username:  Nobo4y
-youtube_channel_id: 
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
-
-# Google Analytics
-google-analytics: UA-163806439-1
-
-# Disqus
-disqus-shortname: thedevslot
-
-# Name of the Author
-author-name: Nobo4y
-# URL for the Image of the Author
-author-image: /assets/images/me.jpg
-# 60 Words About the Author
-author-about: test——about
-# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: 
-
-# SASS
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# Build settings
-plugins:
-  - jekyll-admin
-  - jekyll-feed
-
-# Permalink
-permalink: "blog/:title"
-
-# Compress
-compress_html:
-  clippings: all
-
-# Defaults
-defaults:
-  -
-    scope:
-      type: 'posts'
-    values:
-      layout: post
-      post-image: ""
-      description: ""
-      tags:
-        - ""
-  -
-    scope:
-      type: 'pages'
-    values:
-      layout: page
-
-# Exclude
+### Exclude directories and/or files from the conversion.
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
+  - LICENSE
+  - README.md
+  - flightdeck.manifest.js
+  - gulpfile.js
+  - node_modules
+  - npm-debug.log
+  - package.json
+  - package-lock.json # for those that use npm
+  - yarn.lock # for those that use yarn
   - Gemfile
   - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-
-paginate: 5
-paginate_path: "blog/page:num"
+  - vendor
