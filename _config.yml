@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: 承 影 Sec
 # Description of the Site
-description: A group of children who love and are eager to protect network security
+description: A group of students who love and are eager to protect the network security
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -43,11 +43,11 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Nobo4y
 # URL for the Image of the Author
-author-image: https://img1.baidu.com/it/u=870754353,1975669834&fm=11&fmt=auto&gp=0.jpg
+author-image: /assets/images/nobo4y.jpg
 # 60 Words About the Author
-author-about: A group of children who love and are eager to protect network security
+author-about: 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: 
 
 # SASS
 sass:
