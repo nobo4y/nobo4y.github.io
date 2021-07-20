@@ -1,37 +1,11 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include _components/social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
-    </div>
-
-  </div>
-
+<footer class="footer">
+  <span>{{ site.footerText }}</span>
+  <a href="{{ site.baseurl }}/static/xml/rss.xml">RSS订阅</a>
+  {%- comment %} 请保留主题来源，么么哒~ {% endcomment %}
+  <span>Theme By</span>
+  <a href="https://github.com/TMaize/tmaize-blog">TMaize</a>
 </footer>
-
-<script src="{%- if jeyll.environment == 'production' -%}{{ "/assets/js/bundle.min.js" | relative_url }}{%- else -%}{{ "/assets/js/bundle.js" | relative_url }}{%- endif -%}" type="text/javascript"></script>
+<div id="to-top">
+  <span></span>
+  <span></span>
+</div>
