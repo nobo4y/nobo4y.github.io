@@ -34,7 +34,7 @@ menu:
   - title: 友链
     url: /pages/links.html
   - title: 留言
-    url: /pages/chat.html
+    url: /#
   - title: 关于
     url: /pages/about.html
 
