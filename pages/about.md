@@ -1,30 +1,28 @@
 ---
 layout: mypost
-title: 关于我
+title: 关于我们
 ---
 
 > Hello 陌生人，欢迎访问 承影攻防实验室 Blog
 
-该博客托管于 GitHub Page，主题是Tmaize写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。另外欢迎添加友链，在[留言板](chat.html)留言即可
+承影攻防实验室是一个持续学习发展中网络安全研究团队，成立于2021年7月16日，由一群热爱网络安全的年轻人一同组成，致力于研究红队攻防、漏洞挖掘与修复等，不定期的分享，接收各种批评与建议，一起共同学习成长！该博客托管于 GitHub Page，主题是Tmaize写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。
 
 ## 相关技能
 
-- 熟悉 JavaScript 语言， 熟练使用 Vue 全家桶,jQuery 等前端框架
+- web渗透测试
 
-- 熟悉 Java，NodeJs,Go 等后端语言
+- 内网渗透测试
 
-- 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
+- APP渗透测试
 
-- 数据库方面能熟练使用 MySQL,Oracle，MongoDB
+- 红蓝对抗攻防演练
 
-- Linux 的简单使用，各种服务的搭建
-
-- 能够使用 Git/SVN 对代码版本进行控制
+- 还有很多xxxxxx技能
 
 ## 联系我
 
-- QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1772314831
+- QQ&nbsp;&nbsp;&nbsp;&nbsp;: xxxxxx
 
-- Email&nbsp;: [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email&nbsp;: [chengying@bugbank.cn](chengy1ng@bugbank.cn)
 
-- GitHub: [https://github.com/tmaize](https://github.com/tmaize)
+- GitHub: [chengy1ng](https://github.com/chengy1ng)
