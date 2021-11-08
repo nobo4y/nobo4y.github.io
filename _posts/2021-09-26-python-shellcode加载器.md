@@ -1,18 +1,8 @@
 ---
-title: Python ShellCode加载器简述
-layout: post
-post-image: /assets/images/beijita.jpg
-description: 免杀是一个长期而艰巨的工程
-tags:
-- 内网渗透
-- Coblat Strike
-- 免杀
----
-
-# Python ShellCode加载器简述
-
-​                                                                                                                       ——花无名     
-# Python ShellCode加载器
+title: Python ShellCode加载器简述   --花无名
+layout: mypost
+categories: [木马免杀]
+---    
 
 ## 什么是ShellCode
 
