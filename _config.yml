@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: 承影安全实验室 Blog
-description: 承影安全实验室博客
-keywords: CY,Blog,承影,渗透测试,红队攻防
-author: 花无名
-footerText: 'Copyright © 2021 沪ICP备66668888号'
+title: s1eeper's Blog
+description: 瞎写的博客
+keywords: 肾透测试工程师
+author: s1eeper
+footerText: 'Copyright © 2021 沪ICP备777777777号'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -17,11 +17,11 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-domainUrl: 'https://chengy1ng.github.io'
+domainUrl: 'https://nobo4y.github.io'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://www.bugbank.cn/
+tucaoUrl: http://127.0.0.1:4000/pages/nav.html
 
 # 菜单
 menu:
@@ -31,10 +31,10 @@ menu:
     url: /pages/categories.html
   - title: 搜索
     url: /pages/search.html
-  - title: 友链
-    url: /pages/links.html
-  - title: 留言
-    url: /#
+  - title: 导航
+    url: /pages/nav/nav.html
+  - title: CVE
+    url: https://cve.circl.lu/
   - title: 关于
     url: /pages/about.html
 
@@ -65,27 +65,4 @@ links:
     url: https://www.geek-era.com
   - title: 阿川的个人博客
     url: https://achuan.io
-  - title: 魏文成博客
-    url: https://www.wwc.ren
-  - title: 06m
-    url: https://www.06m.me
-  - title: 达达知识
-    url: https://www.dadapush.com
-  - title: 祈雨的博客
-    url: https://wakzz.cn
-  - title: hongCYu’s Blog
-    url: https://hongcyu.cn
-  - title: Sorryfu
-    url: https://fushaolei.github.io
-  - title: 简单的人生笔记
-    url: https://yoyling.com
-  - title: oneNeko的博客
-    url: https://blog.oneneko.com
-  - title: Py的Blogggg
-    url: https://blog.pyliubaolin.top
-  - title: Yuyao's Blog
-    url: http://hellocode.ink
-  - title: 木叶的博客
-    url: https://muye.ml
-  - title: Stansec
-    url: https://standeblog.com/
+
